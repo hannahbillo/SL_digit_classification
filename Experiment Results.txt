@@ -1,0 +1,13 @@
+**Baseline CNN classifier:**
+
+Learning rate of 0.01 and CrossEntropyLoss:
+- Accuracy for 20 epochs: 89.32%
+- Accuracy for 50 epochs: 91.26%
+
+Change of learning rate to 0.001:
+- Accuracy for 20 epochs: 26.21
+
+L1Loss function:
+- Accuracy for 20 epochs: 7.77%
+
+**Changing the Architecture**
