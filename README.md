@@ -6,5 +6,5 @@ NLP TAL M2
 IDMC, University of Lorraine
 2023-24
 
-Using the Sign Language Dataset from Kaggle:
+Using the Sign Language Digits Dataset from Kaggle:
 https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset/data
